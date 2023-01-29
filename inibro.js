@@ -20,9 +20,9 @@ CATALOG :
     "firstImageId": 1,
     "salePriceAmount1000": "1000",
     "retailerId": `Nomor Owner Di Atas`,
-    "url": `https://wa.me/6285803438385`
+    "url": `https://wa.me/62895327441585`
     },
-    "businessOwnerJid": "6285803438385@s.whatsapp.net",
+    "businessOwnerJid": "62895327441585@s.whatsapp.net",
     }
     }), { userJid: from, quoted: lep  })
     diablo.relayMessage(num, catalog.message, { messageId: catalog.key.id })
